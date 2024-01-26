@@ -3,7 +3,7 @@
       "name": "Nekomiya",
       "repo": "https://github.com/ReallySnow/msm-4.9",
       "branch": "thirteen",
-      "device": "blueline"
+      "device": "b1c1"
     },
     "withKernelSU": true,
     "toolchains": [
