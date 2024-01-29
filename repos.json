@@ -39,13 +39,13 @@
     "withKernelSU": true,
     "toolchains": [
       {
-        "repo": "https://github.com/LineageOS/android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-android-4.9",
+        "repo": "https://android.googlesource.com/platform/prebuilts/gas/linux-x86",
         "branch": "master",
-        "name": "gcc"
+        "name": "gas"
       },
       {
         "repo": "https://gitlab.com/ThankYouMario/android_prebuilts_clang-standalone/",
-        "branch": "11",
+        "branch": "14",
         "name": "clang"
       }
     ],
