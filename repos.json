@@ -1,6 +1,6 @@
 [  {
     "kernelSource": {
-      "name": "miku-KernelSU",
+      "name": "Neko-KernelSU",
       "repo": "https://github.com/ReallySnow/msm-4.9",
       "branch": "thirteen",
       "device": "b1c1"
@@ -14,7 +14,7 @@
       },
       {
         "repo": "https://gitlab.com/ThankYouMario/android_prebuilts_clang-standalone/",
-        "branch": "11",
+        "branch": "14",
         "name": "clang"
       }
     ],
